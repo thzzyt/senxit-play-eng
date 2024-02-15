@@ -1,0 +1,160 @@
+[
+    {
+      "desc": "-Desinstale aplicativos que você não usa; -Limpe o cache dos aplicativos; -Apague fotos, vídeos, músicas que você não liga tanto; -Apague conversas do WhatsApp, principalmente dos grupos ou ativa a opção \"mensagens temporárias\" no próprio WhatsApp& Você provavelmente tem muitas coisas desnecessárias no seu dispositivo, e isso consome não só a memória ROM (interna) mas também a RAM.& E a memória RAM é o que faz os apps/jogos rodarem melhor.",
+      "id": "0",
+      "img": [
+        {
+          "img": "https://i.ibb.co/8K7SkyL/otm1.jpg"
+        }
+      ],
+      "numero": "1",
+      "titulo": "Faça uma limpeza completa no seu celular"
+    },
+    {
+      "desc": "Essa opção reduz a qualidade dos gráficos e dos efeitos visuais do jogo, o que pode ajudar a melhorar o desempenho e a taxa de quadros por segundo (FPS) do jogo em dispositivos com recursos limitados.\r\n\r\nQuando ativada, a opção de gráfico suave reduz a resolução e a qualidade dos modelos de personagens, dos efeitos de iluminação e das texturas do jogo, tornando-os menos detalhados, mas também menos exigentes para o processador do celular. Isso pode ajudar a melhorar o desempenho do jogo em dispositivos com menos recursos, evitando que ele fique lento ou trave durante as partidas.",
+      "id": "1",
+      "img": [
+        {
+          "img": "https://i.ibb.co/GFgWG69/otm2.jpg"
+        }
+      ],
+      "numero": "9",
+      "titulo": "Jogue no gráfico suave"
+    },
+    {
+      "desc": "Um truque que pode melhorar a percepção de rapidez do sistema consiste em modificar a velocidade das animações e transições do Android. Esse passo não permite, de fato, aumentar a velocidade do sistema operacional, mas dá a impressão de que o dispositivo está respondendo mais rápido aos comandos.",
+      "id": "2",
+      "img": [
+        {
+          "img": "https://i.ibb.co/Bj1vt2T/otm3.jpg"
+        },
+        {
+          "img": "https://i.ibb.co/mRhLVzr/otm4.jpg"
+        }
+      ],
+      "numero": "2",
+      "titulo": "Mudar a velocidade de animação do sistema"
+    },
+    {
+      "desc": "Widgets e papéis de parede animados podem acabar exigindo uma grande quantidade de recursos do celular para funcionar, o que pode deixá-lo lento. Isso acontece porque os atalhos interativos continuam funcionando em segundo plano para atualizar e exibir informações, enquanto os wallpapers que se movimentam precisam de memória RAM para rodar, sobrecarregando o sistema.\r\nPor isso, manter uma tela inicial organizada e sem muita informação pode fazer com que o celular fique mais rápido.",
+      "id": "3",
+      "img": [
+        {
+          "img": "https://i.ibb.co/hVS0z8H/otm5.jpg"
+        }
+      ],
+      "numero": "3",
+      "titulo": "Usar poucos widgets e papel animado na tela de início"
+    },
+    {
+      "created_at": 1682621121031,
+      "desc": "Isso fará com que todas as tarefas de um aplicativo sejam encerradas sempre que o usuário sair do app, liberando memória do dispositivo.",
+      "id": "4",
+      "img": [
+        {
+          "img": "https://i.ibb.co/sJdJrBV/otm6.jpg"
+        },
+        {
+          "img": "https://i.ibb.co/jWnRf5f/otm7.jpg"
+        },
+        {
+          "img": "https://i.ibb.co/tXRpcgD/otm8.jpg"
+        }
+      ],
+      "numero": "4",
+      "titulo": "Ativa a opção de não manter atividades"
+    },
+    {
+      "desc": "Uma alternativa para melhorar o desempenho do Android, mas mantendo algumas atividades armazenadas na RAM, é limitar a quantidade de processos em segundo plano.",
+      "id": "5",
+      "img": [
+        {
+          "img": "https://i.ibb.co/9s5txzk/otm9.jpg"
+        },
+        {
+          "img": "https://i.ibb.co/dp5x8C5/otm10.jpg"
+        }
+      ],
+      "numero": "5",
+      "titulo": "Limitar processos em segundo plano"
+    },
+    {
+      "desc": "Ao ativar o modo avião, ele reduz a quantidade de atividade em segundo plano do celular, como a sincronização de dados em segundo plano ou a atualização de aplicativos, o que pode liberar recursos do sistema para melhorar o desempenho do jogo.",
+      "id": "6",
+      "img": [
+        {
+          "img": "https://i.ibb.co/b12gQsM/otm11.jpg"
+        }
+      ],
+      "numero": "6",
+      "titulo": " Ative o modo avião"
+    },
+    {
+      "desc": "Se você não baixar o pacote de expansão, ele não ocupará espaço de armazenamento na memória do seu celular. Isso pode ajudar a economizar espaço de armazenamento no seu celular, especialmente se você tiver um dispositivo com menos espaço de armazenamento disponível.",
+      "id": "7",
+      "img": [
+        {
+          "img": "https://i.ibb.co/4RqC5Hn/otm12.jpg"
+        }
+      ],
+      "numero": "10",
+      "titulo": "Não baixe o pacote de expanção, apenas das skins que vc mais goste de usar e mapas que curte jogar"
+    },
+    {
+      "desc": "Essa configuração impede que apps sejam atualizados automaticamente, ajudando a economizar memória ROM (interna) e a memória RAM! ",
+      "id": "8",
+      "img": [
+        {
+          "img": "https://i.ibb.co/Swm7C5n/otm13.jpg"
+        }
+      ],
+      "numero": "7",
+      "titulo": " Desativar atualizações automáticas dos apps"
+    },
+    {
+      "desc": "Versões lite de aplicativos consomem menos recursos do celular por terem interfaces mais leves e simplificadas, exigindo menos do sistema. Por isso, os apps na versão mais básica podem ser uma boa alternativa para quem usa modelos mais antigos de smartphones ou que possuem pouco espaço de memória disponível no aparelho.",
+      "id": "9",
+      "img": [
+        {
+          "img": "https://i.ibb.co/GFYzjk3/otm14.jpg",
+          "link": "https://play.google.com/store/apps/details?id=com.ubercab.uberlite"
+        },
+        {
+          "img": "https://i.ibb.co/1QfJ0Rh/otm15.jpg",
+          "link": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically.go"
+        },
+        {
+          "img": "https://i.ibb.co/VB9zPjg/otm16.jpg",
+          "link": "https://play.google.com/store/apps/details?id=com.twitter.android.lite"
+        },
+        {
+          "img": "https://i.ibb.co/BCnsLpD/otm17.jpg",
+          "link": "https://play.google.com/store/apps/details?id=com.spotify.music"
+        },
+        {
+          "img": "https://i.ibb.co/VBgg7MG/otm18.jpg",
+          "link": "https://play.google.com/store/apps/details?id=com.instagram.lite"
+        },
+        {
+          "img": "https://i.ibb.co/V9kbzyJ/otm19.jpg",
+          "link": "https://play.google.com/store/apps/details?id=com.facebook.lite"
+        }
+      ],
+      "numero": "11",
+      "titulo": "Usar apps na versão lite"
+    },
+    {
+      "desc": "Quando essa opção está ativada, o WhatsApp não baixa automaticamente as mídias recebidas nas conversas, e elas só são baixadas quando você clica nelas para visualizá-las.\n\nIsso significa que, se você receber muitas imagens, vídeos ou outros arquivos de mídia no WhatsApp, a ativação dessa opção pode ajudar a economizar espaço na memória do celular, evitando que esses arquivos sejam baixados automatica",
+      "id": "10",
+      "img": [
+        {
+          "img": "https://i.ibb.co/jGNRTrw/otm20.jpg"
+        },
+        {
+          "img": "https://i.ibb.co/nRjXt2M/otm21.jpg"
+        }
+      ],
+      "numero": "8",
+      "titulo": "Não deixar o download automático de imagens, fotos, vídeos e documentos do WhatsApp"
+    }
+  ]

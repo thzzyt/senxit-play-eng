@@ -1,0 +1,42 @@
+[
+    {
+      "desc": "Esse método na minha opinião é um dos métodos mais difícil de dominar, nao vai ser todos que irá conseguir.$Só vai dominar quem realmente treinar muito.$Dica: recomendo treinar no bot do treinamento e fazendo o passo a passo devagar.$Bons treinos.",
+      "id": "0",
+      "img": "https://i.ibb.co/9rQKXPy/icons8-my-location-96-xxxhdpi.png",
+      "nome": "2X Aautomática",
+      "titulo": "3 Passos para dominar a 2X automática",
+      "video": "https://sp.rmbl.ws/s8/2/A/B/A/C/ABACj.gaa.mp4"
+    },
+    {
+      "desc": "Esse método na minha opinião é o mais fácil de dominar. $Você pode aplicar esse método com a desert, M500, SVD, SKS, carapina, AC80 e até as shotguns (dozes) mas claro, na curta distância.$Dica: Se a mira estiver passando, puxe o botão mais suave.ou se a mira estiver pegando no peito, puxe o botão mais rápido.$Recomendo treinar no bot do treinamento$Bons treinos.",
+      "id": "1",
+      "img": "https://i.ibb.co/s2h3W9K/desert.png",
+      "nome": "ONE SHOT RED",
+      "titulo": "5 Passos para dominar as One Shots (1 tiro)",
+"video":"https://sp.rmbl.ws/s8/2/C/G/A/C/CGACj.baa.mp4"
+    },
+    {
+      "desc": "O segredo está tambémna velocidade que você puxa o botão de atirar!$Dica 1: Se a mira estiver passando, puxe o botÃ£o mais suave.ou se a mira estiver pegando no peito, puxe o botão mais rápido. Recomendo treinar no bot do treinamento$Dica 2: Quanto mais longe estiver o inimigo, mais suave tem que ser a puxada. Quanto mais perto, mais rápido, lembrando, esse método é específico pra UMP!$Bons treinos.",
+      "id": "2",
+      "img": "https://i.ibb.co/XX5V1TY/Ump-Moderna.png",
+      "nome": "UMP",
+      "titulo": "4 Passos para dominar a UMP",
+      "video": "https://sp.rmbl.ws/s8/2/O/X/z/C/OXzCj.aaa.mp4"
+    },
+    {
+      "desc": "Esse método na minha opinião é o mais dificil de dominar, e assim como o método 2x automática, não vai ser todos que irá conseguir.$Só vai dominar quem realmente treinar muito.$Bons treinos.",
+      "id": "3",
+      "img": "https://i.ibb.co/9rQKXPy/icons8-my-location-96-xxxhdpi.png",
+      "nome": "2X Automática",
+      "titulo": "4 Passos para dominar a 2X automática",
+      "video": "https://sp.rmbl.ws/s8/2/2/I/A/C/2IACj.caa.mp4"
+    },
+    {
+      "desc": "Esse método diferente da UMP NO RECOIL, funciona para qualquer arma SMG, mas nÃ£o tanto para UMPO segredo está também na velocidade que você puxa o botão de atirar!$Dica 1: Se a mira estiver passando, puxe o botão mais suave.ou se a mira estiver pegando no peito, puxe o botão mais rápido. Recomendo treinar no bot do treinamento.$Dica 2: Quanto mais longe estiver o inimigo, mais suave tem que ser a puxada. Quanto mais perto, mais rapido.$Bons treinos.",
+      "id": "4",
+      "img": "https://i.ibb.co/NF1JCRK/mp40.png",
+      "nome": "SMG",
+      "titulo": "2 Passos dominar a SMG",
+      "video": "https://sp.rmbl.ws/s8/2/M/b/A/C/MbACj.aaa.mp4"
+    }
+  ]

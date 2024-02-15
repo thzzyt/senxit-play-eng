@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Tamanho da fonte",
+      "value": "Padrão"
+    },
+    {
+      "title": "Ponteiro do mouse grande",
+      "value": "Ativado"
+    },
+    {
+      "title": "Escalas de Animação da janela",
+      "value": "1.0x"
+    },
+    {
+      "title": "Escala Animação de transição",
+      "value": "1.0x"
+    },
+    {
+      "title": "Escala de duração do Animator",
+      "value": "1.0x"
+    },
+    {
+      "value": "As 3 funções abaixo são as mesma"
+    },
+    {
+      "title": "Atraso ao manter pressionado",
+      "value": "Curto"
+    },
+    {
+      "title": "Atraso ao tocar na opção",
+      "value": "Curto"
+    },
+    {
+      "title": "Tempo de permanência",
+      "value": "Curto"
+    },
+    {
+      "title": "nada",
+      "value": "nada",
+      "video1": "https://sp.rmbl.ws/s8/2/g/u/x/a/guxal.aaa.mp4",
+       "video2": "https://sp.rmbl.ws/s8/2/W/H/x/a/WHxal.aaa.mp4"
+    }
+  ]
