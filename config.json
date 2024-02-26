@@ -1,38 +1,38 @@
 [
     {
-      "title": "Tamanho da fonte",
-      "value": "Padrão"
+      "title": "Font size",
+      "value": "Standard"
     },
     {
-      "title": "Ponteiro do mouse grande",
-      "value": "Ativado"
+      "title": "Large mouse pointer",
+      "value": "Activated"
     },
     {
-      "title": "Escalas de Animação da janela",
+      "title": "Window Animation Scales",
       "value": "1.0x"
     },
     {
-      "title": "Escala Animação de transição",
+      "title": "Scale Transition Animation",
       "value": "1.0x"
     },
     {
-      "title": "Escala de duração do Animator",
+      "title": "Animator Duration Scale",
       "value": "1.0x"
     },
     {
-      "value": "As 3 funções abaixo são as mesma"
+      "value": "The 3 functions below are the same"
     },
     {
-      "title": "Atraso ao manter pressionado",
-      "value": "Curto"
+      "title": "Delay when holding down",
+      "value": "Short"
     },
     {
-      "title": "Atraso ao tocar na opção",
-      "value": "Curto"
+      "title": "Delay when tapping option",
+      "value": "Short"
     },
     {
-      "title": "Tempo de permanência",
-      "value": "Curto"
+      "title": "Lenght of stay",
+      "value": "Short"
     },
     {
       "title": "nada",
