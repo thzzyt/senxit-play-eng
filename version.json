@@ -1,0 +1,10 @@
+{
+"link": "",
+"urlconfigsdb": "https://raw.githubusercontent.com/thzzyt/senxit-play-eng/main/config.json",
+"urlhuddb": "https://raw.githubusercontent.com/thzzyt/senxit-play-eng/main/huds%20(1).json",
+"urlimgff": "https://play-lh.googleusercontent.com/tM5rMqMkOPMyuRX_zKTWeVV6U2BvU2cMBILZmuIgjX_z9it3R_3aZZ0HwRLgxjvGGQ=w480-h960-rw",
+"urlmetododb": "https://raw.githubusercontent.com/thzzyt/senxit-play-eng/main/metodos2.json",
+"urlotimizacaodb": "https://raw.githubusercontent.com/thzzyt/senxit-play-eng/main/otimizacao.json",
+"urlsensiofc": "https://raw.githubusercontent.com/thzzyt/senxit-play-eng/main/sensiofc.json",
+"v": "1.0"
+}
