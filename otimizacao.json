@@ -1,6 +1,6 @@
 [
     {
-      "desc": "-Desinstale aplicativos que você não usa; -Limpe o cache dos aplicativos; -Apague fotos, vídeos, músicas que você não liga tanto; -Apague conversas do WhatsApp, principalmente dos grupos ou ativa a opção \"mensagens temporárias\" no próprio WhatsApp& Você provavelmente tem muitas coisas desnecessárias no seu dispositivo, e isso consome não só a memória ROM (interna) mas também a RAM.& E a memória RAM é o que faz os apps/jogos rodarem melhor.",
+      "desc": "-Uninstall apps you don't use; -Clear application cache; -Delete photos, videos, music that you don't care about so much; -Delete WhatsApp conversations, especially in groups or activate the \"temporary messages\" option in WhatsApp itself& You probably have a lot of unnecessary things on your device, and this consumes not only the ROM (internal) memory but also the RAM.& And RAM memory is what makes apps/games run better.",
       "id": "0",
       "img": [
         {
@@ -8,10 +8,10 @@
         }
       ],
       "numero": "1",
-      "titulo": "Faça uma limpeza completa no seu celular"
+      "titulo": "Give your cell phone a thorough cleaning"
     },
     {
-      "desc": "Essa opção reduz a qualidade dos gráficos e dos efeitos visuais do jogo, o que pode ajudar a melhorar o desempenho e a taxa de quadros por segundo (FPS) do jogo em dispositivos com recursos limitados.\r\n\r\nQuando ativada, a opção de gráfico suave reduz a resolução e a qualidade dos modelos de personagens, dos efeitos de iluminação e das texturas do jogo, tornando-os menos detalhados, mas também menos exigentes para o processador do celular. Isso pode ajudar a melhorar o desempenho do jogo em dispositivos com menos recursos, evitando que ele fique lento ou trave durante as partidas.",
+      "desc": "This option reduces the quality of the game's graphics and visual effects, which can help improve the game's performance and frames per second (FPS) rate on resource-limited devices.\r\n\r\nWhen enabled, The smooth graphics option reduces the resolution and quality of the game's character models, lighting effects and textures, making them less detailed but also less demanding on the cell phone's processor. This can help improve game performance on devices with fewer resources, preventing it from lagging or crashing during matches.",
       "id": "1",
       "img": [
         {
@@ -19,10 +19,10 @@
         }
       ],
       "numero": "9",
-      "titulo": "Jogue no gráfico suave"
+      "titulo": "Play on smooth graph"
     },
     {
-      "desc": "Um truque que pode melhorar a percepção de rapidez do sistema consiste em modificar a velocidade das animações e transições do Android. Esse passo não permite, de fato, aumentar a velocidade do sistema operacional, mas dá a impressão de que o dispositivo está respondendo mais rápido aos comandos.",
+      "desc": "A trick that can improve the system's perception of speed is to modify the speed of Android's animations and transitions. This step does not actually increase the speed of the operating system, but it gives the impression that the device is responding faster to commands.",
       "id": "2",
       "img": [
         {
@@ -33,10 +33,10 @@
         }
       ],
       "numero": "2",
-      "titulo": "Mudar a velocidade de animação do sistema"
+      "titulo": "Change system animation speed"
     },
     {
-      "desc": "Widgets e papéis de parede animados podem acabar exigindo uma grande quantidade de recursos do celular para funcionar, o que pode deixá-lo lento. Isso acontece porque os atalhos interativos continuam funcionando em segundo plano para atualizar e exibir informações, enquanto os wallpapers que se movimentam precisam de memória RAM para rodar, sobrecarregando o sistema.\r\nPor isso, manter uma tela inicial organizada e sem muita informação pode fazer com que o celular fique mais rápido.",
+      "desc": "Widgets and animated wallpapers can end up requiring a large amount of your phone's resources to work, which can slow down your phone. This happens because interactive shortcuts continue to work in the background to update and display information, while wallpapers that move need RAM to run, overloading the system.\r\nTherefore, maintaining an organized home screen without too much information can make your cell phone faster.",
       "id": "3",
       "img": [
         {
@@ -44,11 +44,11 @@
         }
       ],
       "numero": "3",
-      "titulo": "Usar poucos widgets e papel animado na tela de início"
+      "titulo": "Use few widgets and live wallpaper on the home screen"
     },
     {
       "created_at": 1682621121031,
-      "desc": "Isso fará com que todas as tarefas de um aplicativo sejam encerradas sempre que o usuário sair do app, liberando memória do dispositivo.",
+      "desc": "This will cause all tasks in an application to close whenever the user leaves the app, freeing up memory on the device.",
       "id": "4",
       "img": [
         {
@@ -62,10 +62,10 @@
         }
       ],
       "numero": "4",
-      "titulo": "Ativa a opção de não manter atividades"
+      "titulo": "Enable the option to not keep activities"
     },
     {
-      "desc": "Uma alternativa para melhorar o desempenho do Android, mas mantendo algumas atividades armazenadas na RAM, é limitar a quantidade de processos em segundo plano.",
+      "desc": "An alternative to improving Android performance, while keeping some activities stored in RAM, is to limit the number of background processes.",
       "id": "5",
       "img": [
         {
@@ -76,10 +76,10 @@
         }
       ],
       "numero": "5",
-      "titulo": "Limitar processos em segundo plano"
+      "titulo": "Limit background processes"
     },
     {
-      "desc": "Ao ativar o modo avião, ele reduz a quantidade de atividade em segundo plano do celular, como a sincronização de dados em segundo plano ou a atualização de aplicativos, o que pode liberar recursos do sistema para melhorar o desempenho do jogo.",
+      "desc": "When you turn on airplane mode, it reduces the amount of background activity on your phone, such as background data syncing or app updating, which can free up system resources to improve game performance.",
       "id": "6",
       "img": [
         {
@@ -87,10 +87,10 @@
         }
       ],
       "numero": "6",
-      "titulo": " Ative o modo avião"
+      "titulo": "Activate airplane mode"
     },
     {
-      "desc": "Se você não baixar o pacote de expansão, ele não ocupará espaço de armazenamento na memória do seu celular. Isso pode ajudar a economizar espaço de armazenamento no seu celular, especialmente se você tiver um dispositivo com menos espaço de armazenamento disponível.",
+      "desc": "If you do not download the expansion pack, it will not take up storage space in your phone's memory. This can help save storage space on your phone, especially if you have a device with less storage space available.",
       "id": "7",
       "img": [
         {
@@ -98,10 +98,10 @@
         }
       ],
       "numero": "10",
-      "titulo": "Não baixe o pacote de expanção, apenas das skins que vc mais goste de usar e mapas que curte jogar"
+      "titulo": "Don't download the expansion pack, just the skins you like to use and the maps you enjoy playing"
     },
     {
-      "desc": "Essa configuração impede que apps sejam atualizados automaticamente, ajudando a economizar memória ROM (interna) e a memória RAM! ",
+      "desc": "This setting prevents apps from updating automatically, helping to save ROM (internal) memory and RAM! ",
       "id": "8",
       "img": [
         {
@@ -109,10 +109,10 @@
         }
       ],
       "numero": "7",
-      "titulo": " Desativar atualizações automáticas dos apps"
+      "titulo": "Disable automatic app updates"
     },
     {
-      "desc": "Versões lite de aplicativos consomem menos recursos do celular por terem interfaces mais leves e simplificadas, exigindo menos do sistema. Por isso, os apps na versão mais básica podem ser uma boa alternativa para quem usa modelos mais antigos de smartphones ou que possuem pouco espaço de memória disponível no aparelho.",
+      "desc": "Lite versions of applications consume less cell phone resources because they have lighter and more simplified interfaces, requiring less from the system. Therefore, apps in the most basic version can be a good alternative for those using older smartphone models or who have little memory space available on the device.",
       "id": "9",
       "img": [
         {
@@ -141,10 +141,10 @@
         }
       ],
       "numero": "11",
-      "titulo": "Usar apps na versão lite"
+      "titulo": "Use apps in the lite version"
     },
     {
-      "desc": "Quando essa opção está ativada, o WhatsApp não baixa automaticamente as mídias recebidas nas conversas, e elas só são baixadas quando você clica nelas para visualizá-las.\n\nIsso significa que, se você receber muitas imagens, vídeos ou outros arquivos de mídia no WhatsApp, a ativação dessa opção pode ajudar a economizar espaço na memória do celular, evitando que esses arquivos sejam baixados automatica",
+      "desc": "When this option is enabled, WhatsApp does not automatically download media received in conversations, and it is only downloaded when you click on it to view it.\n\nThis means that if you receive a lot of images, videos or other media files on WhatsApp, activating this option can help save space in your cell phone's memory, preventing these files from being downloaded automatically",
       "id": "10",
       "img": [
         {
@@ -155,6 +155,6 @@
         }
       ],
       "numero": "8",
-      "titulo": "Não deixar o download automático de imagens, fotos, vídeos e documentos do WhatsApp"
+      "titulo": "Don't let WhatsApp images, photos, videos and documents automatically download"
     }
   ]
